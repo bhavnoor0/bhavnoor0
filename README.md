@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Bhavnoor, a current *Electrical Engineering* undergraduate at the Univeristy of Queensland.
+I'm Bhavnoor, a current **Electrical Engineering** undergraduate at the Univeristy of Queensland.
 
 - 🔭 Currently: Working as a Private Tutor
 - 🎓 Studying: Electrical Engineering, Computer Science and Calculus and Linear Algebra
