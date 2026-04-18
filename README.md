@@ -3,5 +3,5 @@ I'm Bhavnoor, a current **Electrical Engineering** undergraduate at the Univeris
 
 - 🔭 Currently: Working as a Private Tutor
 - 🎓 Studying: Electrical Engineering, Computer Science and Calculus and Linear Algebra
-- 🎯 Interests: Problem solving, High contstraint puzzles and  Quantative finance
+- 🎯 Interests: Table tennis, badminton and high constraing logic puzzles.
 - 📫 Contact: Reach out to me at [sbhavnoor0@gmail.com](mailto:sbhavnoor0@gmail.com)
